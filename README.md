@@ -51,7 +51,6 @@ Currently studying **Computer Science (Interactive Media & Game Development)** a
 
 ### Just additional game stuffs🎮
 
-Steam Hours
 <script src="https://gist.github.com/MungyMug/69556fbb9b70c39843ebf4fbed21202a.js"></script>
 
 
