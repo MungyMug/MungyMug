@@ -47,8 +47,9 @@ Currently studying **Computer Science (Interactive Media & Game Development)** a
 </p>  
 
 <br/>  
-
+<hr/>  
 
 ### 🎮 Steam Playtime  
 <!-- Steam Box Start -->
 <!-- Steam Box End -->
+
