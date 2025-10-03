@@ -51,6 +51,6 @@ Currently studying **Computer Science (Interactive Media & Game Development)** a
 
 ### 🎮 Steam Playtime  
 
-[![Steam Playtime](https://gist.githubusercontent.com/MungyMug/69556fbb9b70c39843ebf4fbed21202a/raw/steam-box.svg)](https://gist.github.com/MungyMug/69556fbb9b70c39843ebf4fbed21202a)
+![Steam Playtime](https://raw.githubusercontent.com/MungyMug/steam-box/master/steam-box.svg)
 
 
