@@ -1,10 +1,8 @@
-# MungyMug 
+# Foo Ming Sheng  
 
-**Game Developer | Computer Science Student @ SIT – DigiPen (IMGD)**  
+**🎮 <span style="color:#00BFFF">Game Developer</span> | <span style="color:#32CD32">Computer Science Student</span> @ SIT – DigiPen (IMGD)**  
 
-##Hi there! I am Ming Sheng.
-
-I’m a **game developer** and **computer science student** who loves both **playing games and creating them**.  
+I’m a **<span style="color:#FFD700">game developer</span>** and **computer science student** who loves both **playing games and creating them**.  
 I portray myself as both a **gamer** and a **developer**, bringing passion from the player’s perspective into my work.  
 
 I have strong coding skills and experience collaborating with teams to bring ideas to life.  
