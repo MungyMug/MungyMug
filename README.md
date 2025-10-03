@@ -1,6 +1,6 @@
 # MungyMug
 
-**🎮 <span style="color:#00BFFF">Game Developer</span> | <span style="color:#32CD32">Computer Science Student</span> @ SIT – DigiPen (IMGD)**  
+**🎮 Game Developer</span> | Computer Science Student</span> @ SIT – DigiPen (IMGD)**  
 
 Hi there! I am Ming Sheng!
 
